@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Douglas Parnoff",
+	"package": "2.10.2",
 	"description": "freecodecamp learn-npm-package-json",
 	"keywords": [ "freecodecamp","learn", "npm", "package-json" ],
 	"license": "MIT",
