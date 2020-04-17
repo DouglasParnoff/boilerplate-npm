@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Douglas Parnoff",
 	"description": "freecodecamp learn-npm-package-json",
-	"keywords": [ "freecodecamp","learn", "npm", "package-json" ],
+	"keywords": [ "freecodecamp","learn", "npm", "package-json", "json" ],
 	"license": "MIT",
 	"version": "1.0",
 	"dependencies": {
